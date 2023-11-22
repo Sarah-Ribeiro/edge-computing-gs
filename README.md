@@ -70,5 +70,5 @@ Também é necessário ter o arquivo do postman dentro do github para criar os c
 
 ## Screenshots
 
-<p align="center"><img src="/Users/sarahribeiro/www/global-solution/edge-computing/gs - edge/modelo.jpeg" alt="imagem modelo"></img></p>
+<p align="center"><img src="./modelo.jpeg" alt="imagem modelo"></img></p>
 
