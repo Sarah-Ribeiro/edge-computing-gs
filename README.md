@@ -68,10 +68,7 @@ Também é necessário ter o arquivo do postman dentro do github para criar os c
 - MQTT
 - Freeboard
 
-
-
-
 ## Screenshots
 
-![App Screenshot](/Users/sarahribeiro/www/global-solution/edge-computing/gs - edge/modelo.jpeg)
+<p align="center"><img src="/Users/sarahribeiro/www/global-solution/edge-computing/gs - edge/modelo.jpeg" alt="imagem modelo"></img></p>
 
