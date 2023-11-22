@@ -70,5 +70,5 @@ Também é necessário ter o arquivo do postman dentro do github para criar os c
 
 ## Screenshots
 
-<p align="center"><img src="./modelo.jpeg" alt="imagem modelo"></img></p>
+<img src="./modelo.jpeg" alt="imagem modelo"></img>
 
