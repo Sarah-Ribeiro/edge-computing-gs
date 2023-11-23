@@ -1,6 +1,17 @@
 # Global Solution - Edge Computing & Computer Systems
 
 Este é um projeto com ESP32 que utiliza a biblioteca PubSubClient e WiFi para comunicação MQTT e permite o agendamento de consultas médicas remotamente. O dispositivo se conecta a uma rede Wi-Fi e a um broker MQTT para receber comandos e enviar informações sobre as consultas marcadas.
+
+## Visão geral da prosposta 
+
+Essa proposta tem como objetivo facilitar a vida do paciente na hora de marcar uma consulta, de um modo simples, rápido e fácil. Algo que dê mais opções e vantagens na hora de marcar uma consulta.
+
+## Como configurar o projeto
+
+Dentro do Wokwi as únicas intruções necessárias são colocar o código que está no github, criar o hosp220 dentro do postman, instalar as bibliotecas necessárias para que seja possível rodar o código e também fazer as requisições por meio do MQTT, para que assim seja possível que se veja na prática como o sistema funciona.
+
+## 
+
 ## Integrante
 
 - Nome: Sarah Ribeiro - RM: 97747
