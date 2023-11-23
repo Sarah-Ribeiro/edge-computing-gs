@@ -10,9 +10,13 @@ Essa proposta tem como objetivo facilitar a vida do paciente na hora de marcar u
 
 Dentro do Wokwi as únicas intruções necessárias são colocar o código que está no github, criar o hosp220 dentro do postman, instalar as bibliotecas necessárias para que seja possível rodar o código e também fazer as requisições por meio do MQTT, para que assim seja possível que se veja na prática como o sistema funciona.
 
-## Link do Wokwi
+### Link do Wokwi
 
 https://wokwi.com/projects/382020066640660481
+
+### Link do Freeboard
+
+https://freeboard.io/board/vRHLRL
 
 ## Integrante
 
